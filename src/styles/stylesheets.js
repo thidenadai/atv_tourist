@@ -34,12 +34,12 @@ export const styles = StyleSheet.create({
     alignItems: "center",
     justifyContent: "center",
     fontSize: 25,
-    color: "gray",
+    color: "#add8e6",
   },
   desc: {
     alignItems: "center",
     justifyContent: "center",
     fontSize: 20,
-    color: "gray",
+    color: "#a9a9a9",
   },
 });
